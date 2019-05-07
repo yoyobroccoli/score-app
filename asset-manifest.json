@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/score-app/static/css/main.584f321a.chunk.css",
+    "main.js": "/score-app/static/js/main.f7a78bad.chunk.js",
+    "main.js.map": "/score-app/static/js/main.f7a78bad.chunk.js.map",
+    "runtime~main.js": "/score-app/static/js/runtime~main.2035bdec.js",
+    "runtime~main.js.map": "/score-app/static/js/runtime~main.2035bdec.js.map",
+    "static/js/2.b41502e9.chunk.js": "/score-app/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/score-app/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/score-app/index.html",
+    "precache-manifest.9ffa42c68a0a08ff7f06b0214c2a9ecd.js": "/score-app/precache-manifest.9ffa42c68a0a08ff7f06b0214c2a9ecd.js",
+    "service-worker.js": "/score-app/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/score-app/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/score-app/static/media/logo.5d5d9eef.svg"
+  }
+}
